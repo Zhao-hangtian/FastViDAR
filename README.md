@@ -1,7 +1,7 @@
 # FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention
 
 <p align="center">
-  <b><a href="https://3F7DFC.github.io/FastVidar/">Project Page</a></b> ·
+  <b><a href="https://zhao-hangtian.github.io/FastViDAR/">Project Page</a></b> ·
   <a href="#-news">News</a> ·
   <a href="#-quick-start">Quick Start</a> ·
   <a href="#-models--checkpoints">Models</a> ·
